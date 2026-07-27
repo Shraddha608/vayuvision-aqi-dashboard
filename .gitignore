@@ -1,0 +1,16 @@
+# Data files
+data/raw/*.csv
+data/processed/*.csv
+
+# Trained models and generated reports
+models/*.pkl
+reports/*.csv
+
+# Python and Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local configuration
+.env
+.venv/
