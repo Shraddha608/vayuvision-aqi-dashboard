@@ -3,8 +3,6 @@ numpy
 matplotlib
 seaborn
 scikit-learn
-sqlalchemy
-psycopg2-binary
 streamlit
 jupyter
 ipykernel
