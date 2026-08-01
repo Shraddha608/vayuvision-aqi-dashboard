@@ -1,6 +1,7 @@
 # 🌫️ VayuVision — Indian City AQI Forecasting & Data Quality Dashboard
 
 An end-to-end data science project that analyzes, forecasts, and monitors air quality across major Indian cities using historical pollution data, machine learning, and an interactive dashboard.
+🔗 **[Live Demo](https://vayuvision-aqi-dashboard-5hj6zz5yyrcxhtjvctlxo3.streamlit.app/)**
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
