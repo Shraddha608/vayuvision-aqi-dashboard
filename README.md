@@ -4,7 +4,6 @@ An end-to-end data science project that analyzes, forecasts, and monitors air qu
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-red)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-blue)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange)
 
 ---
